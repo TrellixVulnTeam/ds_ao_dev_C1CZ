@@ -1,0 +1,50 @@
+
+
+-- Problema de Négocio:
+
+    -Quais as matérias-prima necessárias para confeccionar as calças?
+
+Saída (Produto Final):
+
+1 -  Resposta para pergunta:
+    - Somar ou fazer a média das matérias-primas das calças ofertadas pelos concorrentes.
+
+
+2- Formato de entrega:
+    -  Tabela ou gráfico
+
+3 - Local de entrega:
+    - Alguma ferramenta de visualização (Streamilit por exemplo)
+
+4 - Processo (Passo-a-Passo)
+
+    - coletar os tipos e fazer a soma ou média das matérias-primas utilizadas.
+
+    - Definir a ferrameta de visualização de dados: 
+
+    - Criação das colunas: id | materia_prima | tipo
+    
+    - Definir os schrum : coluans e seus tipos
+    
+    - Montar os dados em algum banco de dados (SQL3/Postgress/Acesss)
+
+    - Design do ETL ( Scripts de Extração, Transformação e Carga )
+    - Planejamento de Agendamento dos scripts ( dependencias entre os scripts )
+    - Fazer as visualizações
+    - Entrega do produto final
+
+     5- Dedcidir o local de entrega: ( PowerBi, Telegram, Email, Streamlit, Intranet )
+    - App com Streamlit 
+
+    6- Entrada (fonte de dados) 
+    1 - Fonte de Dados
+    
+    site : https://www2.hm.com/en_us/men/products/jeans.html
+    site : https://www.macys.com/shop/mens-clothing/mens-jeans
+
+    7- Ferramentas:
+    Python 3.8.0
+    Jupyter Notebook
+    WebScrapy
+    Streamlit
+
