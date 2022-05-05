@@ -1,0 +1,58 @@
+,product_name,product_price,product_stock,product_avaliation,product_category,scrapy_datetime
+0,the_secret_garden,15.08,instock,4,classics,2022-05-05 15:36:34
+1,the_metamorphosis,28.58,instock,1,classics,2022-05-05 15:36:34
+2,the_pilgrim's_progress,50.26,instock,2,classics,2022-05-05 15:36:34
+3,the_hound_of_the_baskervilles_(sherlock_holmes_#5),14.82,instock,2,classics,2022-05-05 15:36:34
+4,little_women_(little_women_#1),28.07,instock,4,classics,2022-05-05 15:36:34
+5,gone_with_the_wind,32.49,instock,3,classics,2022-05-05 15:36:34
+6,candide,58.63,instock,3,classics,2022-05-05 15:36:34
+7,animal_farm,57.22,instock,3,classics,2022-05-05 15:36:34
+8,wuthering_heights,17.73,instock,3,classics,2022-05-05 15:36:34
+9,the_picture_of_dorian_gray,29.70,instock,2,classics,2022-05-05 15:36:34
+10,the_complete_stories_and_poems_(the_works_of_edgar_allan_poe_[cameo_edition]),26.78,instock,4,classics,2022-05-05 15:36:34
+11,beowulf,38.35,instock,2,classics,2022-05-05 15:36:34
+12,and_then_there_were_none,35.01,instock,2,classics,2022-05-05 15:36:34
+13,the_story_of_hong_gildong,43.19,instock,4,classics,2022-05-05 15:36:34
+14,the_little_prince,45.42,instock,2,classics,2022-05-05 15:36:34
+15,sense_and_sensibility,37.46,instock,1,classics,2022-05-05 15:36:34
+16,of_mice_and_men,47.11,instock,2,classics,2022-05-05 15:36:34
+17,emma,32.93,instock,2,classics,2022-05-05 15:36:34
+18,alice_in_wonderland_(alice's_adventures_in_wonderland_#1),55.53,instock,1,classics,2022-05-05 15:36:34
+19,mesaerion:_the_best_science_fiction_stories_1800-1849,37.59,instock,1,science fiction,2022-05-05 15:40:42
+20,join,35.67,instock,5,science fiction,2022-05-05 15:40:42
+21,"william_shakespeare's_star_wars:_verily,_a_new_hope_(william_shakespeare's_star_wars_#4)",43.30,instock,4,science fiction,2022-05-05 15:40:42
+22,the_project,10.65,instock,1,science fiction,2022-05-05 15:40:42
+23,soft_apocalypse,26.12,instock,2,science fiction,2022-05-05 15:40:42
+24,sleeping_giants_(themis_files_#1),48.74,instock,1,science fiction,2022-05-05 15:40:42
+25,arena,21.36,instock,4,science fiction,2022-05-05 15:40:42
+26,foundation_(foundation_(publication_order)_#1),32.42,instock,1,science fiction,2022-05-05 15:40:42
+27,the_restaurant_at_the_end_of_the_universe_(hitchhiker's_guide_to_the_galaxy_#2),10.92,instock,1,science fiction,2022-05-05 15:40:42
+28,ready_player_one,19.07,instock,4,science fiction,2022-05-05 15:40:42
+29,"life,_the_universe_and_everything_(hitchhiker's_guide_to_the_galaxy_#3)",33.26,instock,2,science fiction,2022-05-05 15:40:42
+30,dune_(dune_#1),54.86,instock,1,science fiction,2022-05-05 15:40:42
+31,do_androids_dream_of_electric_sheep?_(blade_runner_#1),51.48,instock,1,science fiction,2022-05-05 15:40:42
+32,three_wishes_(river_of_time:_california_#1),44.18,instock,2,science fiction,2022-05-05 15:40:42
+33,the_last_girl_(the_dominion_trilogy_#1),36.26,instock,2,science fiction,2022-05-05 15:40:42
+34,having_the_barbarian's_baby_(ice_planet_barbarians_#7.5),34.96,instock,4,science fiction,2022-05-05 15:40:42
+35,the_dirty_little_secrets_of_getting_your_dream_job,33.34,instock,4,business,2022-05-05 15:51:30
+36,the_third_wave:_an_entrepreneurâs_vision_of_the_future,12.61,instock,5,business,2022-05-05 15:51:30
+37,the_10%_entrepreneur:_live_your_startup_dream_without_quitting_your_day_job,27.55,instock,3,business,2022-05-05 15:51:30
+38,shoe_dog:_a_memoir_by_the_creator_of_nike,23.99,instock,2,business,2022-05-05 15:51:30
+39,made_to_stick:_why_some_ideas_survive_and_others_die,38.85,instock,5,business,2022-05-05 15:51:30
+40,quench_your_own_thirst:_business_lessons_learned_over_a_beer_or_two,43.14,instock,1,business,2022-05-05 15:51:30
+41,the_art_of_startup_fundraising,21.00,instock,3,business,2022-05-05 15:51:30
+42,born_for_this:_how_to_find_the_work_you_were_meant_to_do,21.59,instock,5,business,2022-05-05 15:51:30
+43,the_e-myth_revisited:_why_most_small_businesses_don't_work_and_what_to_do_about_it,36.91,instock,1,business,2022-05-05 15:51:30
+44,"rich_dad,_poor_dad",51.74,instock,1,business,2022-05-05 15:51:30
+45,the_lean_startup:_how_today's_entrepreneurs_use_continuous_innovation_to_create_radically_successful_businesses,33.92,instock,3,business,2022-05-05 15:51:30
+46,rework,44.88,instock,2,business,2022-05-05 15:51:30
+47,the_long_haul_(diary_of_a_wimpy_kid_#9),44.07,instock,1,humor,2022-05-05 15:49:41
+48,old_school_(diary_of_a_wimpy_kid_#10),11.83,instock,5,humor,2022-05-05 15:49:41
+49,i_know_what_i'm_doing_--_and_other_lies_i_tell_myself:_dispatches_from_a_life_under_construction,25.98,instock,4,humor,2022-05-05 15:49:41
+50,"hyperbole_and_a_half:_unfortunate_situations,_flawed_coping_mechanisms,_mayhem,_and_other_things_that_happened",14.75,instock,5,humor,2022-05-05 15:49:41
+51,dress_your_family_in_corduroy_and_denim,43.68,instock,3,humor,2022-05-05 15:49:41
+52,toddlers_are_a**holes:_it's_not_your_fault,25.55,instock,1,humor,2022-05-05 15:49:41
+53,when_you_are_engulfed_in_flames,30.89,instock,5,humor,2022-05-05 15:49:41
+54,naked,31.69,instock,3,humor,2022-05-05 15:49:41
+55,"lamb:_the_gospel_according_to_biff,_christ's_childhood_pal",55.50,instock,5,humor,2022-05-05 15:49:41
+56,holidays_on_ice,51.07,instock,2,humor,2022-05-05 15:49:41
